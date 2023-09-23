@@ -2,6 +2,11 @@
 
 This README provides an overview of the data mining methodologies assignment, including the datasets used, associated Medium articles, Colab files, research papers, and ChatGPT conversations for each methodology. The assignment explores three data mining methodologies: CRISP-DM, KDD, and SEMMA.
 
+**Table of Contents**
+- [CRISP-DM Methodology](#crisp-dm-methodology)
+- [KDD Methodology](#kdd-methodology)
+- [SEMMA Methodology](#semma-methodology)
+
 ## CRISP-DM Methodology
 
 | Resource                         | Link                                                                                   |
